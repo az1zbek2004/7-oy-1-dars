@@ -1,0 +1,37 @@
+.form{
+    width: 50vw;
+    border: 8px ridge lightgray;
+    /* border-radius: 20px; */
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title{
+    text-align: center;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.span{
+    display: block;
+    text-align: center;
+    margin-top: 16px;
+    font-size: 18px;
+}
+.link{
+    text-decoration: none;
+    color: red;
+    margin-left: 10px;
+}
+.table{
+    width: 94vw;
+    border: 1px solid grey;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.th{
+
+}
